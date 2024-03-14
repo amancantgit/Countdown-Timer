@@ -1,7 +1,7 @@
 # Countdown Timer
 It's a countdown that converts a user-inputted numerical value representing a duration into a time format, typically hours, minutes, and seconds, and then starts the countdown until it reaches zero.
 
-Hosted link: https://amancantgit.github.io/Countdown-Timer/
+Click [here](https://amancantgit.github.io/Countdown-Timer/) to open.
 
 ## Features:
 - Flexible countdown durations
