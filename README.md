@@ -11,6 +11,11 @@ Click [here](https://amancantgit.github.io/Countdown-Timer/) to open.
 ## Language used:
 HTML, CSS & Vanilla JavaScript.
 
-### To get started with this project, follow these steps :
-1. Clone the repository.
+## Getting Started
+To get a local copy of the project up and running, follow these simple steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/your-project.git
+
 2. Run the project locally.
