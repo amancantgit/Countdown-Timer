@@ -13,5 +13,4 @@ HTML, CSS & Vanilla JavaScript.
 
 ### To get started with this project, follow these steps :
 1. Clone the repository.
-2. Install any necessary dependencies.
-3. Run the project locally.
+2. Run the project locally.
